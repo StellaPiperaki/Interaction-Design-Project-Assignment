@@ -57,7 +57,10 @@ iv. Ο φωτεινός παντογνώστης, ένα παιδικό παιχ
 7.PROTOTYPES
 
 
-<img src= "https://user-images.githubusercontent.com/101418268/173068255-cc2822de-881d-4a0d-8119-3f96b3b4e216.jpg" width="170" />   <img src= "https://user-images.githubusercontent.com/101418268/173068300-a6c973a0-5c60-4b6e-9138-47e354b8e8c4.jpg" width="200" />   <img src= "https://user-images.githubusercontent.com/101418268/173068334-c62e130d-0d46-4eee-b0f7-7dfc29b7d2d4.jpg" width="200" />
+<img src= "https://user-images.githubusercontent.com/101418268/173068255-cc2822de-881d-4a0d-8119-3f96b3b4e216.jpg" width="170" />   <img src= "https://user-images.githubusercontent.com/101418268/173068300-a6c973a0-5c60-4b6e-9138-47e354b8e8c4.jpg" width="200" />   <img src= "https://user-images.githubusercontent.com/101418268/173068334-c62e130d-0d46-4eee-b0f7-7dfc29b7d2d4.jpg" width="200" /> 
+
+<img src= "https://user-images.githubusercontent.com/101418268/173101337-c9c20310-141b-40ea-a304-f8df2c2af704.png" width="400" />  <img src= "https://user-images.githubusercontent.com/101418268/173101378-3320a715-c473-4094-8131-b05b3119269d.png" width="250" />
+
 
 
 Πως λειτουργεί το παιχνίδι μας; 🖼🎨
